@@ -1,0 +1,11 @@
+{
+	"name": "ick-more-coins",
+	"version": "1.1.0",
+	"title": "More Coins",
+	"author": "ickputzdirwech",
+	"contact": "ickputzdirwech@gmx.de",
+	"homepage": "github.com/ickputzdirwech/ick-more-coins",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 1.1.42"],
+	"description": "Adds silver and bronze coins. Unlocks the vanilla (gold) coin and provides recipes to exchange the coins with each other. The names and exchange rates are Harry Potter style. Doesn't provide any way to optain the coins. This mod is primarily meant as an inspiration for other modders, but can be used in combination with other mods that use the coin."
+}
