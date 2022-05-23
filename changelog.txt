@@ -5,5 +5,5 @@ Date: 2021-10-17
     - Added "Sickles" (silver coins) and "Knuts" (bronze coins).
     - Unhid the vanilla (gold) coin and renamed it into "Galleon".
     - Added recipes to exchange 29 "Knuts" into a "Sickle",  17 "Sickles" into a "Galleon" and the other way around.
-    - Doesn't provide any way to optain the coins.
+    - Doesn't provide any way to obtain the coins.
     - Added crafting category "ick-crafting-handonly".
